@@ -23,10 +23,11 @@ The projects focus on the practical implementation of various machine learning a
 
 ## 🛠 How to Use
 1. **Directly in Colab:** You can open any `.ipynb` file and use the "Open in Colab" button (if available) or upload the file to your Google Drive.
-2. **Locally:** ```bash
+2. **Locally:**
+```bash
    git clone [https://github.com/YOUR_USERNAME/ML-AGH.git](https://github.com/YOUR_USERNAME/ML-AGH.git)
    cd ML-AGH
    pip install -r requirements.txt # If you create one
    jupyter notebook
-   ```
+```
 **Created as part of the Machine Learning curriculum at AGH UST.**
